@@ -17,4 +17,4 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           branch: development
-          folder: ~/Users/Marcos Morillo/Desktop/Final_Devops
+          folder: .
