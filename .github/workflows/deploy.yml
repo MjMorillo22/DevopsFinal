@@ -17,4 +17,3 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           branch: development
-          folder: C:\Users\Marcos Morillo\Desktop\Final_Devops  # Assuming project files are in the root directory of the repository
