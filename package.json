@@ -1,10 +1,10 @@
 {
   "name": "my-devops-project",
   "version": "0.1.0",
-  "description": "Pagina simple",
+  "description": "Simple webpage",
   "main": "index.html",
   "scripts": {
-    "test": "(npm test)",
+    "test": "echo 'No tests specified'",
     "build": "echo 'No build necessary'"
   },
   "repository": {
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/MjMorillo22/DevopsFinal/issues"
   },
-  "homepage": "https://github.com/MjMorillo22/DevopsFinal#readme"
+  "homepage": "https://mjmorillo22.github.io/DevopsFinal/"
 }
