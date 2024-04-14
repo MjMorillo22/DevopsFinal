@@ -4,7 +4,8 @@
   "description": "Pagina simple",
   "main": "index.html",
   "scripts": {
-    "test": "(npm test)"
+    "test": "(npm test)",
+    "build": "echo 'No build necessary'"
   },
   "repository": {
     "type": "git",
